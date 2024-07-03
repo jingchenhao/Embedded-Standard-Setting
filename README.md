@@ -7,7 +7,7 @@ ESS is a new standard new standard setting methodology designed to calculate cut
 ## Description
 
 The codes in this repository implement three ESS methods: 
-1) maximize the agreement between rater assigned item achievement levels and ESS-determined item achievemnet levels,
+1) Maximize the agreement between rater assigned item achievement levels and ESS-determined item achievemnet levels
 2) Mean & Midpoint method (First, calculate the mean difficulty for items at each performance level. Subsequently, cut scores are determined by locating the midpoints between the mean values of adjacent levels.)
 3) Receiver Operating Characteristic (ROC) curve method (identify the cut that optimze prediction by striking a balance between true positives and true negatives). 
 
@@ -31,4 +31,3 @@ The codes in this repository implement three ESS methods:
 code blocks for commands
 ```
 
-## Help
