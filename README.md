@@ -22,7 +22,7 @@ The codes in this repository implement three methods to compute cut scores for E
 * sklearn.metrics
 * scipy.stats
 
-### Installing
+### Executing Program
 
 * The ESS_ROC and ESS_counts_MM files implement the three cut identification methods. 
 * The ESS_graphs file plot relevant graphs. 
