@@ -1,8 +1,7 @@
 library(openxlsx)
 library("readxl")
-data_dir=paste('/Users/jing.chen/OneDrive - Northwest Evaluation Association/',
-               'Documents/NWEA/NCME_2021/standard_setting_criteria/', sep='')
-#X<-read_excel(paste(data_dir,"generated.xlsx",sep=''))
+data_dir=paste('/Users/jing.chen/NCME/standard_setting_criteria/', sep='')
+
 x1<-c(rep(1,200),rep(2,600),rep(3,200))
 
 n     <- 1000                 # length of vector
