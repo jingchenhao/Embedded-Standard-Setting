@@ -1,10 +1,15 @@
 # Embeded Standard Setting
 
-Simple overview of use/purpose.
+This repository has codes that implement several embedded standard setting methods. 
+Embedded standard setting (Lewis & Cook, 2020) is a new standard new standard setting methodology designed to calculate cut scores through the optimization of the relationship between item alignment to Achievement Level Descriptors (ALDs) and item difficulty. 
+
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The ESS_counts_MM_weights file has codes for implement three embedding standard setting methods: 
+1) maximize the agreement between rater assigned item achievement levels and ESS-determined item achievemnet levels,
+2) use midpoitn of the mean scores
+3) 
 
 ## Getting Started
 
